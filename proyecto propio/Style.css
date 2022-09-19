@@ -1,0 +1,11 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+background-color: #4D4C7D;
+color: black;
+}
+.container{
+    display: flex;
+
+}
